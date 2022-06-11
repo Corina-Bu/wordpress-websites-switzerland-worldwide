@@ -186,6 +186,8 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Corporate Dialog](https://corporate-dialog.ch/)
 - [Magma Branding](https://www.magma-branding.ch/)
 - [Marie-Christine Schindler](https://www.mcschindler.com/)
+- [Corina Burri SEO consulting](https://www.corinaburri.com/)
+
 
 ## Media
 - [Der Bund](http://www.derbund.ch/blogs/) (various individual blogs)
