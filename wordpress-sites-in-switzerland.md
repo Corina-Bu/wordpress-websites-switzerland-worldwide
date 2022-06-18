@@ -76,6 +76,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [foodward MAS Excellence in Food](http://foodward.ch/)
 - [Juventus Schulen](http://juventus.ch/)
 - [Technische Berufsschule Zürich](https://tbz.ch/)
+- [Sag es auf Spanisch - Spanischkurs](https://sagesaufspanisch.ch/)
 
 ## Engineering
 - [Baulink](https://www.baulink.ch/)
@@ -186,6 +187,7 @@ Please submit changes and additions to this repository via Patch or Pull Request
 - [Corporate Dialog](https://corporate-dialog.ch/)
 - [Magma Branding](https://www.magma-branding.ch/)
 - [Marie-Christine Schindler](https://www.mcschindler.com/)
+- [Corina Burri](https://www.corinaburri.com/)
 
 ## Media
 - [Der Bund](http://www.derbund.ch/blogs/) (various individual blogs)
